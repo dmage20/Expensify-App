@@ -20,7 +20,7 @@ store.dispatch(addExpnese({ammount:500, description: 'hamburger', createdAt: -30
 const state = store.getState();
 const visibleExpenses = getVisibleEpenses(state.expenses, state.filters)
 // console.log(visibleExpenses);
-console.log(state.filters)
+// console.log('test')
 
 const jsx = (
     <Provider store={store}>
