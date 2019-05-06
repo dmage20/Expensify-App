@@ -8,11 +8,11 @@ export const ExpensesSummary = ({expenseCount, expensesTotal}) => {
     const expenseWord = expenseCount === 1 ? 'expense' : 'expenses';
     return (
         <div>
-            <p>
+            <h1>
             Viewing {expenseCount} {expenseWord} totaling {
                 numeral(expensesTotal/100).format('$0,0.00')
                 }
-            </p>
+            </h1>
         </div>
 
     );
