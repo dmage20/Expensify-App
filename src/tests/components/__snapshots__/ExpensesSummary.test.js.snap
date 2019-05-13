@@ -20,14 +20,14 @@ ShallowWrapper {
     "key": undefined,
     "nodeType": "host",
     "props": Object {
-      "children": <p>
+      "children": <h1>
         Viewing 
         12
          
         expenses
          totaling 
         $1,959.00
-</p>,
+</h1>,
     },
     "ref": null,
     "rendered": Object {
@@ -53,7 +53,7 @@ ShallowWrapper {
         " totaling ",
         "$1,959.00",
       ],
-      "type": "p",
+      "type": "h1",
     },
     "type": "div",
   },
@@ -63,14 +63,14 @@ ShallowWrapper {
       "key": undefined,
       "nodeType": "host",
       "props": Object {
-        "children": <p>
+        "children": <h1>
           Viewing 
           12
            
           expenses
            totaling 
           $1,959.00
-</p>,
+</h1>,
       },
       "ref": null,
       "rendered": Object {
@@ -96,7 +96,7 @@ ShallowWrapper {
           " totaling ",
           "$1,959.00",
         ],
-        "type": "p",
+        "type": "h1",
       },
       "type": "div",
     },
@@ -131,14 +131,14 @@ ShallowWrapper {
     "key": undefined,
     "nodeType": "host",
     "props": Object {
-      "children": <p>
+      "children": <h1>
         Viewing 
         1
          
         expense
          totaling 
         $1.95
-</p>,
+</h1>,
     },
     "ref": null,
     "rendered": Object {
@@ -164,7 +164,7 @@ ShallowWrapper {
         " totaling ",
         "$1.95",
       ],
-      "type": "p",
+      "type": "h1",
     },
     "type": "div",
   },
@@ -174,14 +174,14 @@ ShallowWrapper {
       "key": undefined,
       "nodeType": "host",
       "props": Object {
-        "children": <p>
+        "children": <h1>
           Viewing 
           1
            
           expense
            totaling 
           $1.95
-</p>,
+</h1>,
       },
       "ref": null,
       "rendered": Object {
@@ -207,7 +207,7 @@ ShallowWrapper {
           " totaling ",
           "$1.95",
         ],
-        "type": "p",
+        "type": "h1",
       },
       "type": "div",
     },
