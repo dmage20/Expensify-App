@@ -28,6 +28,6 @@ export default (state = expensesReducerDefaultState, action) => {
     }
 };
 
-export const setExpenses = () => {
+// export const setExpenses = () => {
 
-}
+// }
