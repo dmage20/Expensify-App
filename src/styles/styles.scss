@@ -1,9 +1,17 @@
 @import './base/settings.scss';
 // @import './components/add-option';
 @import './base/base';
-// @import './components/button';
-// @import './components/header';
-// @import './components/container.scss';
-// @import './components/option';
-// @import './components/modal';
-// @import './components/widget.scss';
+@import './components/box-layout.scss';
+@import './components/button';
+@import './components/header';
+@import './components/content-container';
+@import './components/page-header';
+@import './components/input-group';
+@import './components/inputs';
+@import './components/form';
+@import './components/visibility';
+@import './components/list';
+@import './components/loader';
+
+
+
